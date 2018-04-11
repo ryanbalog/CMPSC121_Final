@@ -587,4 +587,6 @@ void errorChecking(string &selection)																																// Incorrec
 		cout << "*************************************************" << endl;
 		cout << "*************************************************" << endl;
 	}
+	
+	return;
 }
